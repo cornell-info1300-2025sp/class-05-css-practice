@@ -12,7 +12,7 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
   
       <link rel="stylesheet" type="text/css" href="styles/site.css">
 
-- add a [`background`](https://developer.mozilla.org/en-US/docs/Web/CSS/background) and foreground (font) [`color`](https://developer.mozilla.org/en-US/docs/Web/CSS/color):
+- add a [`background-color`](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color) and text [`color`](https://developer.mozilla.org/en-US/docs/Web/CSS/color):
 
       background-color: #99c9a5;
       color: #000000;
